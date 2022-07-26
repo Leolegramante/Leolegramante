@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Leonardo Legramante 
+## Oi! Eu sou o Leonardo Legramante 
  <div>
   <a href="https://github.com/Leolegramante">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leolegramante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
